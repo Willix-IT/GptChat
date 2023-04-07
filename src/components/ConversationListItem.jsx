@@ -6,7 +6,7 @@ const ConversationListItem = ({ id }) => {
   useEffect(() => {
     const storedMessages = JSON.parse(localStorage.getItem(id)) || [];
     if (storedMessages.length) {
-      setLastMessage(storedMessages[storedMessages.length - 1].text);
+      setLastMessage(storedMessages[storedMessages.length - 1].content);
     }
   }, [id]);
 
