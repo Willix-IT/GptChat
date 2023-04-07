@@ -32,26 +32,27 @@ function Conversation({ apiKey }) {
 
   async function fetchAssistantResponse(prompt) {
     try {
-      const response = await axios.post(
-        "https://api.openai.com/v1/engines/davinci-codex/completions",
-        {
-          prompt: `User: ${prompt}\nAssistant:`,
-          max_tokens: 100,
-          n: 1,
-          stop: null,
-          temperature: 0.5,
+      const response = await fetch("https://api.openai.com/v1/completions", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${apiKey}`,
         },
-        {
-          headers: {
-            "Content-Type": "application/json",
-            Authorization: `Bearer ${apiKey}`,
-          },
-        }
-      );
+        body: JSON.stringify({
+          model: "text-davinci-003",
+          prompt: `${prompt}`,
+          max_tokens: 100,
+          temperature: 0.5,
+          frequency_penalty: 0.0,
+          presence_penalty: 0.0,
+        }),
+      });
 
+      const data = await response.json();
+      console.log(data);
       const message = {
         sender: "assistant",
-        text: response.data.choices[0].text.trim(),
+        text: data.choices[0].text.trim(),
       };
       return message;
     } catch (error) {
