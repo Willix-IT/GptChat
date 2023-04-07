@@ -74,16 +74,6 @@ function Conversation({ apiKey }) {
     }
   };
 
-  //   const loadFromLocalStorage = (key) => {
-  //     try {
-  //       const storedValue = localStorage.getItem(key);
-  //       return storedValue ? JSON.parse(storedValue) : [];
-  //     } catch (error) {
-  //       console.error("Erreur lors du chargement du localStorage:", error);
-  //       return [];
-  //     }
-  //   };
-
   return (
     <div style={{ width: "60%", margin: "auto" }}>
       <h2>Conversation {conversationId}</h2>
