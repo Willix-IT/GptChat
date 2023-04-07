@@ -1,7 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-
-import axios from "axios";
 import Message from "./Message";
 import { v4 as uuidv4 } from "uuid";
 
@@ -10,7 +8,7 @@ function Conversation({ apiKey }) {
   const [messages, setMessages] = useState(() =>
     localStorage.getItem(conversationId)
       ? JSON.parse(localStorage.getItem(conversationId))
-      : []
+      : [{"role": "system", "content": "You are a now a helpful assistant."},]
   );
   const [input, setInput] = useState("");
 
@@ -21,10 +19,12 @@ function Conversation({ apiKey }) {
   const handleSubmit = async (e) => {
     e.preventDefault();
     if (!input) return;
-    const userMessage = { sender: "user", text: input };
+    const userMessage = { role: "user", content: input };
+    const temp = [...messages, userMessage]
+    console.log(temp)
     setMessages((prevMessages) => [...prevMessages, userMessage]);
 
-    const assistantMessage = await fetchAssistantResponse(input);
+    const assistantMessage = await fetchAssistantResponse(temp);
     setMessages((prevMessages) => [...prevMessages, assistantMessage]);
 
     setInput("");
@@ -32,16 +32,16 @@ function Conversation({ apiKey }) {
 
   async function fetchAssistantResponse(prompt) {
     try {
-      const response = await fetch("https://api.openai.com/v1/completions", {
+      const response = await fetch("https://api.openai.com/v1/chat/completions", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
           Authorization: `Bearer ${apiKey}`,
         },
         body: JSON.stringify({
-          model: "text-davinci-003",
-          prompt: `${prompt}`,
-          max_tokens: 100,
+          model: "gpt-4",
+          messages: prompt,
+          max_tokens: 500,
           temperature: 0.5,
           frequency_penalty: 0.0,
           presence_penalty: 0.0,
@@ -51,15 +51,15 @@ function Conversation({ apiKey }) {
       const data = await response.json();
       console.log(data);
       const message = {
-        sender: "assistant",
-        text: data.choices[0].text.trim(),
+        role: "assistant",
+        content: data.choices[0].message.content.trim(),
       };
       return message;
     } catch (error) {
       console.error("Error fetching assistant response:", error);
       return {
-        sender: "assistant",
-        text: "Désolé, je n'ai pas pu traiter votre demande.",
+        role: "assistant",
+        content: "Désolé, je n'ai pas pu traiter votre demande.",
       };
     }
   }
@@ -80,7 +80,7 @@ function Conversation({ apiKey }) {
       <h2>Conversation {conversationId}</h2>
       <div>
         {messages.map((message, index) => (
-          <Message key={uuidv4()} sender={message.sender} text={message.text} />
+          <Message key={uuidv4()} role={message.role} content={message.content} />
         ))}
       </div>
       <form

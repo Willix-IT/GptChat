@@ -4,22 +4,26 @@ import styled from "@emotion/styled";
 const MessageContainer = styled.div`
   display: flex;
   flex-direction: ${(props) =>
-    props.sender === "assistant" ? "row" : "row-reverse"};
+    props.role === "assistant" ? "row" : "row-reverse"};
   margin-bottom: 8px;
 `;
 
 const MessageText = styled.div`
   padding: 8px;
   background-color: ${(props) =>
-    props.sender === "assistant" ? "#404040" : "#00aaff"};
+    props.role === "assistant"
+      ? "#404040"
+      : props.role === "user"
+      ? "#00aaff"
+      : "#54c6ff"};
   border-radius: 4px;
   max-width: 70%;
 `;
 
-function Message({ sender, text }) {
+function Message({ role, content }) {
   return (
-    <MessageContainer sender={sender}>
-      <MessageText sender={sender}>{text}</MessageText>
+    <MessageContainer role={role}>
+      <MessageText role={role}>{content}</MessageText>
     </MessageContainer>
   );
 }
