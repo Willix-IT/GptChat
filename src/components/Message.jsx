@@ -18,6 +18,7 @@ const MessageText = styled.div`
       : "#54c6ff"};
   border-radius: 4px;
   max-width: 70%;
+  white-space: pre-wrap;
 `;
 
 function Message({ role, content }) {

@@ -11,6 +11,7 @@ function Conversation({ apiKey }) {
       : [{"role": "system", "content": "You are a now a helpful assistant."},]
   );
   const [input, setInput] = useState("");
+  const [loading, setLoading] = useState(false)
 
   useEffect(() => {
     saveToLocalStorage(conversationId, messages);
@@ -18,15 +19,16 @@ function Conversation({ apiKey }) {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    setLoading(true)
+    setInput("Votre requête est en cours de traitement")
     if (!input) return;
     const userMessage = { role: "user", content: input };
     const temp = [...messages, userMessage]
-    console.log(temp)
     setMessages((prevMessages) => [...prevMessages, userMessage]);
 
     const assistantMessage = await fetchAssistantResponse(temp);
     setMessages((prevMessages) => [...prevMessages, assistantMessage]);
-
+    setLoading(false)
     setInput("");
   };
 
@@ -49,7 +51,6 @@ function Conversation({ apiKey }) {
       });
 
       const data = await response.json();
-      console.log(data);
       const message = {
         role: "assistant",
         content: data.choices[0].message.content.trim(),
@@ -92,6 +93,8 @@ function Conversation({ apiKey }) {
           type="text"
           value={input}
           onChange={(e) => setInput(e.target.value)}
+          placeholder={loading ? "Chargement..." : "Tapez votre message"}
+          disabled={loading}
         />
         <button
           type="submit"
