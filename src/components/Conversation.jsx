@@ -43,7 +43,7 @@ function Conversation({ apiKey }) {
         body: JSON.stringify({
           model: "gpt-4",
           messages: prompt,
-          max_tokens: 500,
+          max_tokens: 3000,
           temperature: 0.5,
           frequency_penalty: 0.0,
           presence_penalty: 0.0,
