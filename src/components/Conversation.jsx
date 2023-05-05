@@ -88,8 +88,8 @@ function Conversation({ apiKey }) {
         onSubmit={handleSubmit}
         style={{ height: "50px", margin: "20px 0" }}
       >
-        <input
-          style={{ width: "100%", height: "100%" }}
+        <textarea
+          style={{ width: "100%", height: "100%", padding: "5px" }}
           type="text"
           value={input}
           onChange={(e) => setInput(e.target.value)}

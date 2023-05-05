@@ -10,10 +10,21 @@ const ConversationListItem = ({ id }) => {
     }
   }, [id]);
 
+  const truncateMessage = (message, maxLength = 100) => {
+    if (message.length > maxLength) {
+      return message.slice(0, maxLength) + "...";
+    }
+    return message;
+  };
+
+  const truncatedMessage = truncateMessage(lastMessage);
+
   return (
     <div style={{ marginBottom: "50px" }}>
       <h3>Conversation {id}</h3>
-      <p>{lastMessage ? `Dernier message: ${lastMessage}` : "Aucun message"}</p>
+      <p>
+        {lastMessage ? `Dernier message: ${truncatedMessage}` : "Aucun message"}
+      </p>
     </div>
   );
 };
