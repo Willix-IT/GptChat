@@ -1,0 +1,1216 @@
+4e ÉDITION
+J.-L. Giannelloni
+É. Vernette
+ETUDES DE
+MARCHE
+
+Collection Gestion
+dirigée par Jean-Pierre Helfer et Jacques Orsoni
+Jean-Luc Giannelloni Éric Vernette
+Professeur de marketing Professeur de marketing
+à l’IAE de Grenoble à l’IAE de Toulouse
+Études
+de marché
+4e édition
+
+Avant-propos
+Positionnement
+Le positionnement n’a pas varié depuis la première édition de cet ouvrage, parue en 1995 : être le
+manuel de référence des étudiants qui suivent un cursus marketing faisant appel aux études de
+marché, tout en étant le support indispensable des professionnels des études.
+Le domaine couvert est vaste et complexe. Pour traiter le sujet, trois approches étaient envisageables :
+. L’approche du généraliste, centrée sur une description rapide des principales techniques.
+. L’approche du spécialiste, fondée sur une présentation approfondie des méthodes indispensables à
+une bonne maîtrise du domaine.
+. L’approche du chercheur, reposant sur une analyse exhaustive et minutieuse des outils et
+démarches d’études disponibles à ce jour.
+Nous avons délibérément opté pour une perspective de spécialiste, pour combler le vide qui existe
+entre les ouvrages d’introduction aux études de marché, forcément sommaires, et ceux orientés
+vers la recherche, plus proches de préoccupations académiques.
+Nous y avons ajouté un regard pragmatique : faire une étude de marché, c’est nécessairement
+réaliser des compromis, compte tenu du budget, de la pression du temps et des exigences du client.
+Nous nous attacherons à dégager les points forts et les limites des techniques, à formuler des
+recommandations simples pour faciliter leur mise en œuvre. Nous souhaitons aussi faciliter l’appropriation des résultats par les clients en montrant, pas à pas, comment formuler un bon projet et
+comment interpréter les résultats d’une étude de marché.
+Objectifs
+Notre objectif majeur est de donner au lecteur un bagage méthodologique solide et une maîtrise
+réelle du domaine des études, de façon à :
+. Être capable de choisir la technique d’étude la plus adéquate, selon la nature du problème posé et
+en fonction du coût et des difficultés de mise en œuvre.
+. Pouvoir réaliser de bout en bout une démarche complète d’étude, depuis l’identification du
+problème, en passant par la collecte et le traitement des données, jusqu’à la présentation et la
+mise en œuvre du rapport d’étude.
+. Savoir négocier avec un institut d’études de marché, bien gérer l’appel d’offres et comprendre les
+recommandations formulées.
+Notre volonté est d’atteindre ces objectifs en gardant un langage accessible au plus grand nombre,
+mais sans transiger sur la nécessaire rigueur qui s’impose pour toute démarche d’étude sérieuse.
+Cibles visées
+À qui est plus particulièrement destiné cet ouvrage ? Notre positionnement le destine prioritairement à trois types de publics :
+. Les élèves des écoles de management et les étudiants des universités/IAE.
+. Les chargés d’études en entreprise ou en institut.
+. Les managers Marketing d’entreprise ou d’administration et les acheteurs d’études.
+V
+Une quatrième édition actualisée pour suivre l’évolution du marché des études
+La troisième édition de ce manuel datait de 2012. Si nous ne souhaitons pas inonder le marché en
+proposant de trop fréquentes mises à jour, plus proches d’un suivi de modes passagères que d’un
+véritable progrès dans l’appréhension ou la compréhension des marchés et des comportements
+d’achat, il est clair que, depuis cette date, l’environnement marketing et le monde des études ont
+encore évolué. La pénétration de plus en plus massive d’Internet et des réseaux sociaux en ligne
+obligent à remettre en cause certaines méthodes. Par ailleurs, de nouveaux instruments d’étude et
+de nouvelles technologies digitales sont apparus. Enfin, les préoccupations en matière de coûts et les
+exigences des managers, confrontés à l’immédiateté et à l’urgence de la décision, modifient les
+enjeux pour les chargés d’études.
+L’ambition de cette quatrième édition consiste à rendre compte de l’ensemble des évolutions du
+métier et du contexte, tout en respectant le positionnement initial de l’ouvrage. Les modifications
+apportées sont d’une double nature :
+. Sur la forme, nous avons repris l’ensemble des chapitres afin de rendre encore plus accessibles les
+passages les plus techniques. De nombreux exemples et études de cas ont été ajoutés ou
+complétés.
+. Sur le fond, nous avons mis à jour tous les chapitres comprenant des éléments soumis à la pression
+du temps et à l’évolution des techniques, notamment l’ensemble des données relatives au marché
+des études.
+VI ÉTUDES DE MARCHÉ
+Première partie
+Réflexions préalables
+à l'étude
+Cette première partie de l’ouvrage, consacrée à la présentation des réflexions et des travaux
+préalables au démarrage de l’étude, se fonde sur trois étapes séquentielles : la formulation du
+problème (chapitre 1), les études préparatoires (chapitre 2) et le projet d’étude (chapitre 3).
+Le novice sous-estime généralement l’importance de ces phases préparatoires, au détriment
+des opérations de collecte et d’analyse des informations. Pourtant, le chargé d’études confirmé
+sait, par expérience, que ces trois étapes sont déterminantes pour la réussite globale du
+processus.
+PARTIE 1
+Réflexions
+préalables à l’étude
+PARTIE 2
+Approche
+qualitative
+Terrain
+de
+l’étude
+Analyse
+des
+données
+PARTIE 3
+Approche
+quantitative
+Formulation du problème
+Études et analyses préliminaires
+Projet d’étude
+Conclusions et recommandations
+Chapitre 1
+Cadrage de l’étude
+Dynamitez vos certitudes...
+A. SOLÉ
+Cadrer une étude c’est définir correctement le périmètre des investigations. Cela commence par une
+analyse minutieuse du problème posé, puis, le cas échéant, par une reformulation. En effet, selon un
+adage bien connu, un problème bien formulé est déjà à moitié résolu. Si tel est bien le cas, ce chapitre
+montre au lecteur pourquoi bon nombre de problèmes ne sont finalement pas résolus de manière
+satisfaisante...
+Le chargé d’études néophyte est parfois surpris par la manière dont le problème est posé par le manager :
+exprimé de manière vague, en quelques lignes, ou, au contraire, développé de manière excessive,
+embrassant des pans entiers de stratégie marketing. De manière surprenante, lors des discussions préliminaires, des suggestions concernant les résultats attendus sont parfois énoncées. Nous verrons au cours
+de ce chapitre les raisons pour lesquelles la compréhension du problème, puis la définition des objectifs
+de l’étude ne sont pas si faciles à réaliser. Comme le montre la figure 1.1., nous réaliserons cela en deux
+temps : analyse du problème à résoudre, puis compréhension de l’objectif de l’étude.
+Figure 1.1. Plan du chapitre
+Cadrage de l’étude
+Analyse du problème à résoudre
+Compréhension de l’objectif de l’étude
+Études préparatoires
+Projet d’étude
+1
+I. Analyse du problème à résoudre
+L’étude de marché met trois partenaires en présence : le demandeur, le réalisateur et l’utilisateur
+des résultats.
+– Le demandeur est généralement un dirigeant ou un cadre d’une organisation : entreprise,
+administration, collectivité territoriale, association, syndicat, etc.
+– Le réalisateur, appelé chargé d’études, est membre de l’organisation ou appartient à un institut
+extérieur qui se voit confier l’étude. C’est l’expert technique, à la fois architecte, puisqu’il dessine le
+plan de l’étude (la méthodologie), et conducteur de travaux, parce qu’il supervise chaque étape de
+sa réalisation. Il faut ajouter que celui-ci peut, à son tour, sous-traiter une part de l’étude à un ou
+plusieurs prestataires extérieurs : la réalisation du terrain (entretiens, réunion de groupe) et les
+traitements statistiques sont souvent externalisés.
+– L’utilisateur est variable : il peut s’agir des dirigeants ou des cadres qui sont à l’origine de la
+demande initiale, mais aussi des clients ou des membres de l’organisation. Ainsi, les résultats des
+études d’audience (radios ou télévisions) sont largement diffusés auprès des annonceurs et agences
+publicitaires potentiels pour les convaincre de confier leur budget publicitaire.
+A. Émergence du problème
+Un problème surgit généralement quand un manager est confronté à une décision incertaine.
+L’incertitude existe lorsque celui-ci envisage plusieurs solutions ou événements sans pouvoir déterminer lequel est préférable. Or la valeur ajoutée de l’étude de marché est la réduction de l’incertitude du décideur par la production d’informations utilisables pour résoudre un problème spécifique.
+Les renseignements fournis permettent d’évaluer les risques associés à chaque solution, par
+exemple :
+« Quels sont les risques d’échec respectifs d’un lancement de produit effectué avec l’emballage
+A, B ou C ? »
+« Quel prix retenir pour le lancement : 1,50 euro, 1,75 euro ou 1,80 euro ? »
+Dans cette perspective, un des critères d’appréciation de l’efficacité d’une étude réside dans sa
+capacité à orienter le manager vers les « bonnes » décisions.
+Lorsque le problème à résoudre atteint un seuil critique, c’est-à-dire quand le décideur perçoit
+que les conséquences (financières, commerciales, organisationnelles, etc.) découlant d’un mauvais
+choix seront néfastes et durables, l’étude s’impose comme une solution possible pour réduire les
+risques.
+B. Perception managériale du problème
+et questions d’étude
+1. Perspectives différentes
+La dissociation des rôles entre réalisateur et utilisateur des résultats est une source naturelle de
+malentendus. Les questions du manager sont souvent pragmatiques et orientées vers la prise de
+décision : il attend de l’étude des réponses claires pour réduire l’incertitude initiale. Face à cela, la
+2 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+..................................................................................................................................................................................
+première préoccupation du chargé d’études est de comprendre et de décomposer le problème
+posé, puis d’évaluer comment le résoudre sur le plan méthodologique.
+La plupart du temps, le demandeur fournit une quantité d’informations suffisante pour guider le
+chargé d’études. En effet, grâce à sa connaissance du marché et de l’environnement de son
+entreprise, le manager a une idée ou une intime conviction sur les causes majeures du problème
+rencontré. De ce fait, le néophyte a tendance à considérer qu’il s’agit là du véritable et unique
+problème à résoudre. En s’arrêtant à cette première vision des choses, le chargé d’études risque fort
+de partir sur une fausse piste. Après avoir sélectionné la méthodologie convenable, il peut découvrir
+en cours de route que le véritable problème se situait ailleurs.
+Exemple
+Imaginons le cas suivant. Monsieur Businaisse est directeur général d’une importante société de
+matériel hi-fi haut de gamme destiné aux mélomanes exigeants. Depuis quelque temps,
+Monsieur Businaisse voit ses parts de marché s’éroder et son chiffre d’affaires stagner. Il
+demande alors à Mademoiselle Jouvencelle, responsable de recherche marketing, « une petite
+étude pour découvrir les causes de cette situation ». Ainsi posé, le problème n’est pas directement
+soluble, car il ne permet pas d’orienter les futures investigations. Pour répondre à cette question
+managériale, il existe en effet un faisceau de réponses possibles qui constituent autant d’hypothèses de travail, donc autant de sujets potentiels d’études.
+En se fondant sur sa bonne connaissance des grandes surfaces spécialisées, acquise au cours
+d’un emploi précédent, Monsieur Businaisse est persuadé que la mévente actuelle vient d’un
+prix de vente public trop élevé par rapport à la concurrence. En oubliant que cette information
+n’est qu’une simple hypothèse, Mademoiselle Jouvencelle opte pour une méthode d’investigation fondée sur l’observation : elle relève les prix pratiqués par les principaux concurrents dans
+les différents canaux. L’analyse des résultats est claire : ce n’est pas un problème de prix. En
+formulant cette conclusion, la chargée d’étude va probablement s’attirer la réflexion suivante :
+« Alors, puisqu’il ne s’agit pas d’un problème de prix, vous allez certainement me dire maintenant
+quelle est la cause, que j’ignore toujours, de la mévente actuelle. Après tout, c’est bien l’objectif que je
+vous ai fixé, non ? »
+..................................................................................................................................................................................
+Nous avons réuni, dans la figure 1.2., quelques exemples courants de préoccupations managériales et leurs traductions possibles en questions d’étude. On notera la multiplicité des orientations
+découlant d’une interrogation managériale en apparence fort simple. Une part importante du métier
+de responsable d’études réside dans sa capacité à sélectionner « la » ou « les » bonnes questions
+parmi une foule d’investigations possibles. Les rencontres préliminaires avec les demandeurs et
+utilisateurs des travaux sont souvent indispensables pour effectuer une conversion correcte des
+préoccupations managériales en choix d’étude.
+2. Divergence sur l’utilité des études
+D’autres filtres, de nature plus psychologique, influent sur la perception du problème posé. En
+effet, selon les managers, l’estimation de valeur ajoutée offerte par les études de marché est très
+variable : les positions vont du refus pur et simple à la confiance inébranlable.
+Les opinions négatives se fondent sur le postulat que, dans de nombreux domaines, les études
+de marché n’offrent pas de garanties pour une bonne décision. L’intuition et l’expérience seraient
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 3
+préférables. Le problème est que si l’on suit son intuition, c’est bien beau, mais encore faut-il qu’elle
+ne vous trompe pas ! Certes, quand on s’appelle Steve Jobs, patron d’Apple, on peut aligner des
+succès formidables (iTunes, iPod, iPhone, iBook, iPad, etc.). Dès lors, quand un tel patron visionnaire
+affirme qu’il ne fait pas d’études de marché, une telle déclaration met sérieusement en question la
+valeur ajoutée des études (voir flash-étude 1.1.).
+Figure 1.2. Problèmes de management et questions d’étude
+Questions managériales initiales Questions d’étude envisageables
+Quelle est l’efficacité de la campagne de publicité faite
+pour la marque X ?
+– Estimer les scores de mémorisation et d’agrément
+selon les médias.
+– Comparer (toutes choses égales par ailleurs) les
+ventes avant et après la campagne de publicité.
+Quel est le marché potentiel d’un nouveau service de
+dépannage à domicile ?
+– Déterminer les meilleures cibles.
+– Estimer les intentions d’achats.
+Faut-il proposer le GPS en série ou en option sur une
+voiture ?
+– Déterminer si cet avantage correspond à une
+attente déterminante.
+– Mesurer les variations des intentions d’achat, dans
+chaque cas, selon les scénarios de prix.
+– Observer les choix des concurrents.
+Peut-on augmenter le prix du produit ? – Estimer les volumes de ventes avec un prix supérieur de 10 %.
+– Évaluer l’impact sur l’image de marque.
+– Comparer les prix des concurrents ayant un positionnement proche.
+Faut-il distribuer le produit en grandes surfaces ou
+chez les distributeurs spécialisés ?
+– Mesurer l’image de chaque canal et comparer avec
+le positionnement voulu.
+– Étudier les prix publics et la présence des marques
+dans chaque canal.
+Flash-Étude 1.1.
+Suivez votre intuition, ne faites pas d’études 1 !
+« Nous avons fait l’iTunes parce que nous aimons tous la musique. Nous avons fait ce que nous pensions
+être le meilleur jukebox dans iTunes. Nous voulons tous pouvoir emmener l’ensemble de notre discothèque avec nous. L’équipe a vraiment travaillé dur. Et la raison pour laquelle ils ont travaillé si dur, c’est
+que nous voulions vraiment une telle chose. Vous savez, je veux dire que les cent premiers clients,
+c’étaient nous.
+Ce n’est ni une question de culture pop, ni une question de personnes complètement folles, il ne s’agit
+pas de convaincre des gens qu’ils veulent quelque chose dont ils ne veulent pas. Nous savions ce que
+nous voulions. Et nous avons eu la bonne discipline de nous demander aussi si les autres personnes
+voulaient aussi cela. C’est pour cela que nous sommes payés. Vous ne pouvez pas sortir et demander
+aux gens quelle sera la prochaine grande chose. Il y a une citation célèbre d’Henry Ford qui dit : ‘‘Si j’avais
+demandé aux clients ce qu’ils voulaient, ils m’auraient dit : un cheval plus rapide.’’
+Nous ne faisons pas d’études de marché. Nous n’embauchons pas de consultants. Le seul que j’ai
+engagé au cours de ces dix dernières années, c’était une entreprise pour analyser la stratégie de
+distribution de Gateway, aussi je ne veux plus refaire les mêmes fautes qu’ils ont faites quand nous
+1. Extraits traduits et adaptés d’un interview de Steve Jobs réalisé par Betsie MORRIS, Fortune, mars 2004.
+4 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+avons lancé les magasins Apple Stores. Nous n’engageons pas de consultants. Nous voulons juste faire
+de grands produits.
+Quand nous avons créé l’iTunes Music Store, nous l’avons fait parce que nous pensions que ce serait bien
+de pouvoir acheter de la musique de manière digitale, pas parce que nous voulions redéfinir l’industrie
+musicale. Je veux dire que c’est comme écrire sur un mur que toute la musique devrait être distribuée de
+manière électronique. Cela semblait évident. Pourquoi supporter un coût [de distribution] ? L’industrie
+musicale fait des profits énormes. Pourquoi accepter cette charge quand vous pouvez simplement
+envoyer des électrons si facilement ? »
+Plus précisément, les critiques formulées par les opposants aux études s’appuient sur deux
+arguments :
+a. Une contribution mineure des consommateurs
+Cette réticence s’explique par la conviction que le consommateur formule difficilement ses
+attentes. En outre, il lui serait très difficile d’imaginer les futurs possibles offerts par la technologie.
+Ceci serait particulièrement vrai dans les secteurs faisant appel à des technologies innovantes ou à la
+créativité : la mode (habillement, communication, culture, etc.), l’informatique, l’audiovisuel, l’automobile, les biens et services industriels, etc. Dans ces domaines, l’interrogation d’acheteurs potentiels
+n’apporterait que des « gazouillis » sans intérêt ou, à l’inverse, des propositions irréalisables.
+b. Une valeur ajoutée inférieure à celle offerte par l’intuition managériale
+Un grand nombre de « success stories » proclament que la réussite de leurs auteurs tient à leur
+capacité à ne pas s’encombrer d’études et avoir su faire preuve de flair : tel manager est fier
+d’annoncer qu’il ne fait aucune étude de marché parce qu’il n’y croit pas, tel autre raconte qu’il
+n’a pas hésité à commercialiser avec le plus grand succès un produit pour lequel les études étaient
+défavorables.
+L’inconvénient de ce type de raisonnement, fondé sur quelques expériences, est qu’il est
+souvent possible de fournir de nombreux contre-exemples. Ainsi, si le flash-étude 1.1. célébrait
+des exemples de réussites d’Apple, le flash-étude 1.2. montre que même Steve Jobs a enregistré
+durant sa carrière une longue série de revers. Ainsi, la meilleure intuition n’est jamais une garantie
+absolue de réussite et, sur le long terme, l’apport des études de marché se révèle souvent supérieur
+à celui de l’intuition pure.
+Flash-Étude 1.2.
+Quelques déboires marketing dus à l’absence d’études...
+Voici quelques-unes des créations d’Apple qui furent des échecs notoires, car l’un ou l’autre des
+éléments du marketing-mix n’était pas en adéquation avec les attentes des consommateurs. Ou
+plus simplement, parce que les patrons successifs d’Apple, John Sculley puis Steve Jobs, de retour
+dans l’entreprise en 1993, voyaient les choses comme cela...
+Apple III. Créé en 1980 après le succès de l’Apple II, il s’adressait à une clientèle professionnelle. Il
+dut sa disparition, quatre ans plus tard, essentiellement à cause de problèmes de surchauffe. Parce
+qu’il en détestait le bruit, Steve Jobs n’avait pas voulu qu’il soit équipé d’un ventilateur.
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 5
+Macintosh portable. Lancé en 1989, son retrait intervient deux ans plus tard. Il coûtait
+6 500 dollars et pesait plus de 7 kg. Une véritable méconnaissance des attentes des consommateurs.
+Newton. Ancêtre du Palm (l’organisateur de poche), ce produit, très en avance sur son temps,
+sortit en 1993. Mais il souffrait de problèmes techniques importants : difficulté à reconnaître
+l’écriture manuelle, lenteur décourageante et un prix jugé astronomique (1 000 $). Il fut retiré
+du marché six ans plus tard.
+Macintosh TV. Premier Macintosh à tuner TV intégré, véritable hybride qui mêlait un téléviseur
+Sony Trinitron et un Apple Performa 520, il fut lancé en 1993. Il permettait de regarder la
+télévision, mais on ne pouvait pas l’utiliser en même temps en tant qu’ordinateur. Il était peu
+évolutif et peu puissant. Produit à 10 000 exemplaires, il disparut six mois plus tard.
+Pippin. Développée en partenariat avec le fabricant Bandai dans le courant de l’année 1996, cette
+console vidéo ne disposait que d’une vingtaine de jeux à sa sortie. Elle ne réussit jamais à s’imposer
+sur un marché ultra-concurrentiel où s’affrontaient déjà la Nintendo 64, la Saturn de Sega et la
+PlayStation de Sony.
+G4 Cube. Sorti en juillet 2000, ce nouveau micro-ordinateur proposait un design original en forme
+de cube, avec une éjection verticale des CD, comme pour un grille-pain. Bien que ciblant les
+professionnels, son prix était considéré comme trop élevé. Le Power Mac G4, plus performant,
+l’éclipsa totalement. Le Cube fut retiré du marché environ un an plus tard.
+À l’opposé, la co-création marketing considère que les consommateurs sont capables de
+formuler des attentes innovantes et sont sources d’idées intéressantes pour de nouveaux produits
+ou services. En effet, certains individus ressentent avant les autres des besoins particuliers (i.e. le
+« lead-user » 2) et ont des idées pour résoudre leur problème ; d’autres disposent d’une ouverture
+d’esprit et d’un sens pratique pour imaginer facilement de nouvelles applications (i.e. le consommateur de « nature émergente »3). Ces consommateurs sont des cibles intéressantes pour les études
+marketing.
+Par ailleurs, le développement d’Internet et des réseaux sociaux permet de créer des platesformes interactives qui sont un creuset privilégié pour observer, tester, développer de nouveaux
+concepts de produits ou services avec les clients de la marque. Cette co-création se fait sous la
+forme d’appels à concours gérés par des instituts d’études ou au sein de communautés de
+marques 4.
+Le flash-étude 1.3. montre l’intérêt d’une co-création marketing. De telles études de marché ne
+reposent pas sur une interrogation unique d’un échantillon de clients. Elles mobilisent une série de
+méthodes d’observation on line des pratiques, étalée sur plusieurs mois, un ciblage d’individus clés et
+un processus d’interrogation des consommateurs récurrent et interactif.
+2. VON HIPPEL E, « Lead users : a source of novel product concept », Management Science, vol. 32, no 7, 1986, pp. 791-805 ;
+FRANKE N., VON HIPPEL E., SCHREIER M., « Finding commercially attractive user innovations : a test of lead-user theory », Journal of
+Product Innovation Management, vol. 23, no 4, 2006, pp. 301-315.
+3. HOFFMAN D., KOPALLE P. et NOVAK T., « The ‘‘right’’ consumers for better concepts : identifying consumers high in emergent nature
+to develop new product concepts », Journal of Marketing Research, vol. 47, 2010, pp. 854-865.
+4. COVA B., « Développer une communauté de marque autour d’un produit de base : my nutella The Community», Décisions
+Marketing, no 42, 2008, pp. 55-62 ; COVA B., « Consumer Made : quand le consommateur devient producteur », Décisions
+Marketing, no 50, 2008, pp. 19-27 ; FÜLLER J., JAWECKI G et MÜHLBACHER H., « Développement de produits et services en
+coopération avec les communautés en ligne », Décisions Marketing, no 48, 2007, pp. 47-58.
+6 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+Flash-Étude 1.3.
+De l’utilité des études avec les consommateurs
+Nivea a lancé en Allemagne en 2011 un nouvel anti-transpirant, baptisé « Invisible for black & white »
+qui offre une solution à un besoin des consommateurs, hommes ou femmes, longtemps non
+résolu. Ce produit évite les tâches jaunâtres sur les vêtements blancs et les auréoles blanches sur
+les vêtements noirs dues à une transpiration excessive. Ce nouveau produit a été co-créé avec les
+consommateurs à la suite d’un appel à concours de la marque Nivea qui a été géré par Hyve, un
+institut d’études spécialisé. Plus de 700 idées et solutions pour résoudre les problèmes de transpiration ont été recueillies. Les suggestions les plus intéressantes ont fait l’objet d’un processus
+d’interaction continu entre les consommateurs et les services R & D internes de Nivea, durant
+les différentes phases de mise au point du produit.
+En 2006, Nike lance une nouvelle chaussure Nike+, en partenariat avec Apple 5. Ce nouveau
+produit intègre un capteur intelligent, inséré dans la chaussure, capable de communiquer avec un
+récepteur Apple (iPhone ou iPod). Le capteur enregistre la durée de la course, le nombre de
+kilomètres parcourus et toutes sortes d’autres informations. Dans le même temps, Nike a développé une plate-forme interactive sur Internet où les membres téléchargent leurs données personnelles : objectifs, distances parcourues, durée, nombre de calories brûlées, etc. Des applications
+dérivées de Google Maps permettent de tracer de nouveaux parcours, de les visualiser et de les
+diffuser dans le monde entier. Les informations sont fournies par un simple téléchargement des
+données contenues dans le capteur. Un réseau mondial de parcours, créé par les
+600 000 membres de la communauté issus de 170 pays, est disponible, couvrant tous les coins
+du globe. Le site comporte une partie musicale, où chacun peut publier sa « play-list » préférée
+pour tel ou tel parcours, la possibilité d’un coaching personnalisé pour atteindre tel ou tel objectif,
+des stages à des prix négociés, etc. Les données montrent les différents types de parcours, les
+températures et conditions météo lors des sorties, le type de musique le plus adapté à telle ou telle
+expérience, et permettent d’apprendre que la durée moyenne d’un jogging est de 35 minutes Le
+marketing regarde ce laboratoire vivant où chacun crée, expérimente et partage. Nike comprend
+ce qui fait sens dans les expériences et offre sur la plate-forme des moyens techniques pour
+stimuler ces co-créations. Il est à l’affût des nouvelles tendances, connaît les préférences des
+consommateurs et leurs évolutions, ce qui lui permet de concevoir les produits les plus adaptés.
+En 2007, Nike captait 57 % du marché américain de la chaussure de course, contre 47 % en 2006 ;
+en 2009, sa part de marché atteignait 67 %.
+3. Synthèse : apports et limites des études
+Quelques remarques sont nécessaires pour mieux comprendre et apprécier le potentiel offert
+par les études.
+a. Connaître les limites méthodologiques de chaque technique
+Nous insisterons fréquemment, tout au long de cet ouvrage, sur les hypothèses, les précautions
+méthodologiques particulières devant être prises lorsque l’on fait appel à une technique d’étude. La
+plupart des méthodes reposent sur de sévères hypothèses qui les invalident si l’utilisateur passe
+outre. Nous n’hésiterons pas à souligner, lorsque cela se présentera, que certaines d’entre elles, de
+5. TISSIER DESBORDES E. et VERNETTE É., « La participation du client, la co-production, la co-création, un nouvel eldorado pour le
+marketing ? », Décisions Marketing, no 65, 2012, pp. 3-6 ; RAMASWANY V. et GROUILLART F., L’entreprise co-créative, 2011,Vuibert.
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 7
+prime abord séduisantes, n’ont pas fait l’objet d’une validation solide. La méconnaissance de leurs
+limites se traduit souvent par une confiance aveugle.
+b. Prendre en compte la complexité du comportement du consommateur
+On ne connaît pas tout, loin s’en faut, des mécanismes du comportement d’achat du consommateur. Par exemple, il se peut très bien que si la marque A est préférée à B, et B est préférée à C,
+C soit préférée à A. Les études de marché restent tributaires des progrès effectués dans le domaine
+de la recherche sur le comportement du consommateur 6 et peuvent conduire à des résultats
+erronés, parfois lourds de conséquences sur les plans commerciaux et financiers.
+c. Réduire l’incertitude sans la supprimer
+Les études permettent une réduction notable de l’incertitude grâce à l’apport d’informations,
+mais elles ne peuvent prétendre à la suppression du risque. Par exemple, les méthodes quantitatives
+fondées sur un échantillonnage aléatoire suivent la loi des grands nombres qui assortit toute
+estimation d’une « marge de fluctuation » statistique. Ainsi, les marchés tests simulés, utilisés pour
+prévoir les ventes et parts de marché d’un nouveau produit, ont une précision moyenne d’environ
+10 %. Il n’en demeure pas moins que ce score est nettement supérieur à celui que l’on obtiendrait,
+en moyenne, avec des prévisions fondées sur le seul « flair » du manager.
+d. Intégrer l’intuition dans les modèles
+Un courant de la recherche en marketing propose de bâtir des modèles en combinant modélisation des connaissances et intuition managériale. Il a été ainsi vérifié que les modèles de prévision
+les plus performants sont ceux qui comportent 50 % d’intuition et 50 % de modélisation 7.
+C. Clarification du problème
+Comment faciliter cette clarification ? Nous proposons une démarche en deux temps : connaître
+les sources habituelles de difficultés, déterminer le niveau de décision auquel se situe l’étude.
+1. Sources des difficultés de formulation du problème
+a. Le flou
+La difficulté surgit lorsque le praticien, initiateur de l’étude, n’est pas en mesure d’exprimer
+clairement ce qu’il attend des résultats. Or ce cas de figure paradoxal n’est pas aussi rare qu’on
+pourrait le croire :
+« En dépit d’une croyance communément admise, les objectifs sont rarement donnés au chercheur.
+Le décideur formule rarement ses objectifs avec précision. Il est enclin à les exprimer sous la forme de
+platitudes sans efficacité opérationnelle. En conséquence, les objectifs doivent être extraits par le chargé
+d’études. En faisant cela, le chercheur peut fournir ainsi son service le plus utile au décideur 8. »
+6. DARPY D., Comportements du consommateur, Dunod, 3e éd., 2012 ; SOLOMON M., DUMAS L., EL KAMEL L., ROY J. Le comportement du
+consommateur, Pearson, 2013.
+7. BLATTBERG R. et HOCH S., « Modèles à base de données et intuition managériales : 50 % modèle + 50 % manager », Recherche et
+Applications en marketing, vol. 6, no 4, 1991, pp. 79-98.
+8. ACKOFF R. A., Scientific Method, New York, John Wiley, 1962, p. 71, cité par CHURCHILL G. A. Jr., Marketing Research, 4e éd., Dryden
+Press, 1987.
+8 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+..................................................................................................................................................................................
+b. L’incomplet
+Une deuxième difficulté survient lorsque les informations fournies par le manager sont insuffisantes pour rédiger le projet d’étude. Souvent, par manque de temps, le demandeur rencontre
+brièvement le chargé d’études, ce qui réduit le volume et la qualité des informations échangées. Un
+cas extrême est celui de la rétention volontaire d’informations : le décideur considère que c’est à
+l’institut ou au chargé d’études de prouver sa compétence en complétant les bribes d’informations
+et en retrouvant de lui-même les hypothèses les plus plausibles 9.
+c. L’enchevêtrement
+L’expérience montre que l’efficacité ultérieure de l’étude de marché dépend en grande partie du
+soin avec lequel le problème initial a été décomposé en sous-parties. Ce travail préliminaire facilite la
+compréhension d’un problème complexe. Le groupe Danone, après l’audit d’un échantillon de 88
+études réalisées pour son compte, a observé que la cause de la mauvaise qualité de ces dernières
+venait, dans 20 % des cas, d’un problème initial mal formulé 10.
+Exemple
+Soit, par exemple, la préoccupation suivante : « Comment réaliser une campagne de publicité
+efficace ? » Toute une série d’études sont envisageables si l’on ne répond pas clairement aux
+questions suivantes :
+– Faut-il mesurer cette efficacité par l’image de marque ou par la notoriété spontanée ?
+– Doit-on définir un budget publicitaire optimal ou arbitrer entre divers plans médias ?
+– S’agit-il de choisir un axe de communication ? ..................................................................................................................................................................................
+2. Détermination du niveau de la décision à prendre
+En marketing, une décision peut être de nature tactique (choix d’un emballage, sélection
+d’une publicité, fixation d’un prix, adoption d’un mode de rémunération pour les vendeurs) ou
+relever de la stratégie (choix d’une cible ou d’un positionnement produit, extension d’une
+gamme, diversification des activités, etc.). La perception du problème, le degré d’incertitude,
+l’identification et l’évaluation des solutions ne sont pas les mêmes selon le cas 11, comme le
+montre la figure 1.3.
+À côté de ces premiers obstacles, le chargé d’études doit envisager d’autres éléments, souvent
+plus difficiles à cerner, pour comprendre la nature du « vrai » problème à résoudre. Nous allons les
+aborder dans le paragraphe suivant.
+9. LE MAIRE P., « Comment améliorer les relations entre les cabinets d’études et leurs clients ? », Revue française du marketing, 1979/4,
+pp. 41-49.
+10. BOSS J.-F. et LINDON D., « L’efficacité des études de marché », Revue française du marketing, no 134, 1991/4, pp. 35-49.
+11. FAIVRE J.-P., « Des études classiques aux études stratégiques », Revue française du marketing, no 142-143, 1993/2-3,
+pp. 75-88.
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 9
+Figure 1.3. Traitement du problème et type de décision
+Traitement du problème Décision tactique Décision stratégique
+Perception du problème Rapide.
+Problème manifeste.
+Facilement identifié.
+Lente.
+Problème latent.
+Nécessité d’un diagnostic.
+Niveau d’incertitude Très faible à assez grand. Très grand.
+Identification des solutions Faciles à recenser.
+Connues lors de la décision.
+Difficiles à cerner.
+Certaines options sont inconnues.
+II. Compréhension de l’objectif de l’étude
+Une des aspirations majeures du chargé d’études est d’obtenir suffisamment d’informations pour
+rédiger un projet cohérent. Le principe de base est que, plus le demandeur peut fournir d’informations, plus grandes seront les chances que l’étude produise des résultats efficaces. Cette logique n’est
+pas toujours respectée, car parfois les objectifs réels des acheteurs d’études ne sont pas faciles à
+avouer ; en outre, l’utilisation des résultats peut prendre des aspects surprenants.
+A. Principaux obstacles
+Nous avons vu que le but le plus courant assigné à l’étude de marché est la réduction de
+l’incertitude pour faciliter la prise de décision. En réalité, les finalités d’une étude sont multiples.
+1. Information ou décision
+Le postulat de départ : « l’étude doit apporter une meilleure information pour une meilleure décision » tend à être transformé en « toujours plus d’informations », d’où le risque de surinformation. Ce
+fait pose deux questions : l’information sert-elle à décider et aide-t-elle à décider ? Certains travaux
+montrent que, beaucoup plus souvent que l’on ne croit, le manager demande de l’information « non
+pas pour décider, ou pour mieux décider, mais au contraire pour ne pas décider 12 ». La collecte
+d’informations demande du temps, et donc permet d’obtenir un délai supplémentaire de
+« réflexion » vis-à-vis de la décision à prendre. Lorsqu’elle est achevée, l’analyse débouche généralement sur la conclusion que le problème est « complexe », que les solutions envisagées au départ
+sont risquées, qu’il convient de faire preuve d’une grande prudence, les informations disponibles
+sont contradictoires ou incomplètes... bref, les études peuvent légitimer l’absence de décision.
+2. Finalités multiples de l’étude
+Les recherches portant sur le processus de prise de décision montrent que les acteurs d’une
+organisation poursuivent des objectifs complexes, parfois contradictoires avec l’objectif rationnel
+12. SOLE A., « L’information aide-t-elle la décision ? », Revue française du marketing, no 142-143, 1993/2-3, pp. 89-96.
+10 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+attribué au départ à l’étude. L’investigation devient une « pseudo-recherche » dans les situations
+suivantes 13 :
+– Acquisition ou conservation d’un pouvoir. Ces motifs sont justifiés par des considérations de
+politique interne à une organisation.
+– Promotion d’un service ou d’une personne. Il s’agit de montrer que l’on ne reste pas inactif face à
+une situation donnée. Le simple fait de recueillir des informations a plus d’importance que les
+conclusions.
+– Satisfaction personnelle. Un manager entreprend une étude pour se faire plaisir ou pour se
+rassurer.
+3. Relations manager et réalisateur de l’étude
+Compte tenu des remarques précédentes, il n’est guère surprenant de constater des difficultés
+de communication entre le manager et le chargé d’études. La comparaison de leurs objectifs et
+comportements respectifs met en évidence de multiples sources de divergence, comme le montre
+la figure 1.4.
+Figure 1.4. Relations manager et chargé d’études
+Phases du processus
+de décision Manager Chargé d’études
+Formulation initiale
+du problème
+– Floue.
+– Hypothèses établies selon ses
+contraintes et selon une vue plus ou
+moins partielle de la réalité.
+– Interprétation selon des schémas
+théoriques.
+– Développe des relations entre des
+variables (modélisation).
+– Cherche les hypothèses implicites
+du décideur.
+Clarification du problème – Langage qualitatif.
+– Culture générale.
+– Raisonnement sur des exemples
+locaux.
+– Urgence conditionne le temps
+disponible pour l’étude.
+– Langage formalisé ou scientifique,
+culture spécialisée.
+– Raisonnement global, souci de la
+représentativité.
+– Simplifie, décompose, réduit.
+– Exigence de la qualité scientifique
+détermine le temps nécessaire à
+l’étude.
+Missions et préoccupations – Accorde peu d’intérêt au déroulement de l’étude.
+– Peut contrôler la démarche en
+modifiant les hypothèses.
+– Poids des contraintes organisationnelles.
+– Actions à court terme.
+– Synthèse simplificatrice.
+– Accorde peu d’intérêt aux
+circonstances qui ont motivé l’étude.
+– Situation de conseiller, médiateur,
+avocat, arbitre.
+– Poids des contraintes méthodologiques.
+– Actions à moyen terme.
+– Démarche analytique.
+Source : adapté de NICHOLSON P., « Marketing : réconcilier les hommes d’études et les décideurs »,
+Revue française de gestion, janvier/février 1987, no 61, p. 25.
+13. SMITH S. M., « Research and Pseudo Research in Marketing », Harvard Business Review, avril 1974, pp. 73-76.
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 11
+B. Utilisation des résultats
+Les résultats d’une étude peuvent être interprétés de trois manières 14 :
+– Appuyer une décision. Il s’agit de justifier ou de défendre une décision déjà prise ou devant être
+prise.
+– Comparer des décisions. Selon le cas, on débroussaille ou on retarde des choix décisifs.
+– Réfuter une décision. Le but est d’empêcher une décision déjà prise ou de s’en désolidariser.
+Par ailleurs, la pratique des études montre qu’un manager a tendance à anticiper les résultats, en
+se fondant sur plusieurs éléments : l’expérience préalable du marché, les résultats d’études antérieures ou l’intuition pure. Ce constat est important, car nous verrons, dans le chapitre Conclusions
+et recommandations, que si l’acheteur de l’étude est surpris par les résultats obtenus, il aura d’abord
+tendance à éplucher la méthodologie de l’étude, plutôt qu’à remettre en cause son intuition initiale.
+En croisant le degré d’anticipation des résultats avec les grandes catégories d’objectifs, on aboutit
+à quatre sortes d’études, présentées dans la figure 1.5. Cette typologie permet une meilleure
+compréhension des différentes sortes d’objectifs d’étude.
+Figure 1.5. Types d’études selon les objectifs poursuivis
+Anticipation des résultats Évaluer des choix – Négocier Agir – Vérifier
+Faible à moyenne Étude exploratoire (1) Étude appliquée (2)
+Grande à extrême Étude paratonnerre (3) Étude confirmatoire (4)
+(1) L’étude exploratoire correspond à une étude de débroussaillage destinée à comprendre les grandes dimensions d’un
+problème, énoncer des hypothèses, répertorier différentes solutions, etc. Les objectifs sont exprimés en termes assez
+vagues et le champ des recommandations possibles est large.
+(2) L’étude appliquée doit produire des résultats concrets. Les objectifs de l’étude sont précis et le manager attend du
+chargé d’études une recommandation claire et pragmatique.
+(3) L’étude paratonnerre recouvre une variété de situations correspondant à des « pseudo-recherches ». Les objectifs de
+l’étude sont vagues ; les résultats ne sont admis que s’ils confirment l’intuition initiale du demandeur ou s’ils offrent des
+arguments utiles pour une négociation. De même, si la recommandation n’est pas conforme aux prévisions, elle a peu de
+chance d’être appliquée.
+(4) L’étude confirmatoire s’apparente à une étude sanction, proche d’une expertise destinée à arbitrer différentes
+positions. Les objectifs sont clairs et la recommandation est considérée comme un jugement. La méthodologie et les
+résultats seront passés au crible et probablement contestés par l’une ou l’autre des parties prenantes.
+C. Diagnostic des questions d’étude
+Il ne faudrait cependant pas déduire des remarques précédentes que toutes les études de
+marché servent à arbitrer ou à orienter le jeu des différents acteurs d’une organisation. Mais il est
+nécessaire d’être conscient de la variété des situations. L’expertise du chargé d’études dépend en
+grande partie de sa capacité à transformer les interrogations managériales initiales du demandeur en
+14. NICHOLSON P., « Marketing : réconcilier les hommes d’études et les décideurs », Revue française de gestion, no 61, janvier/février
+1987, pp. 22-32 ; WALISER B., « Évaluation des études d’aide à la décision dans les administrations centrales », « Le processus de
+décision dans les organisations », Journée d’études AFCET, Paris, 1980.
+12 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+questions d’étude. Ceci revient à formuler un diagnostic d’étude ; ce processus se fonde sur trois
+séries d’éléments que nous répertorions dans la figure 1.6.
+Dans les situations simples, l’obtention de ces éléments ne pose guère de difficultés : la formulation initiale du problème est simple, le recensement des causes du problème a permis d’établir un
+diagnostic marketing clair et solide 15. L’exactitude de ce dernier est un élément crucial, car, selon le
+type de diagnostic, les questions d’étude varient considérablement. Théoriquement, ce travail n’est
+pas du ressort du chargé d’études (interne ou extérieur à l’entreprise), car il remonte bien en aval du
+problème d’étude. La logique voudrait donc que le diagnostic soit préalablement effectué par le
+directeur marketing. Mais la tendance actuelle s’oriente vers une contribution plus active du chargé
+d’études qui, du coup, se transforme en « consultant marketing ». Ceci ne va pas sans poser de
+problèmes : allongement de la phase préparatoire, augmentation du devis d’étude, difficulté d’accès
+aux informations, réticence du donneur d’ordre qui voit dans cette démarche une remise en cause
+des choix marketing antérieurs, etc.
+Figure 1.6. Démarche pour un diagnostic d’étude
+1 – Exposé du problème managérial
+. Présentation du contexte marketing
+. Enjeux de l’étude pour l’entreprise
+2 – Examen du problème
+. Analyse des causes présumées
+. Recensement des informations
+disponibles et manquantes
+. Validation du diagnostic marketing
+3 – Fixation des objectifs et questions d’étude
+. Types de réponse à apporter
+. Hiérarchie des questions d’étude :
+priorités et compléments
+"
+"
+15. Pour un approfondissement du diagnostic du marketing, le lecteur se reportera aux manuels de base, tels que, par exemple :
+DUBOIS P.-L., JOLIBERT A., GAVARD-PERRET M.-L. et FOURNIER C. Le marketing, 4e éd., Economica, 2014 ; HELFER J.-P., ORSONI J., et
+SABRI O. Marketing, Vuibert, 13e éd., 2014 ; VERNETTE É., L'essentiel du marketing, 3e éd., Éditions d'Organisation, 2008.
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 13
+..................................................................................................................................................................................
+Exemple
+Poursuivons l’exemple pris au début de ce chapitre. Pour faciliter l’établissement du diagnostic
+marketing, Mademoiselle Jouvencelle doit examiner quelques-unes des pistes suivantes, considérées comme causes potentielles de la baisse des ventes, avant d’entreprendre toute
+démarche d’étude :
+1 – Action de la concurrence : baisse des prix de vente, forte hausse des budgets de publicité,
+lancement de nouveaux produits, etc.
+2 – Mauvais choix de positionnement du produit : cible visée en déclin, communication incohérente, prix inadapté, etc.
+3 – Problème d’image : baisse de la satisfaction des acheteurs, production de mauvaise qualité,
+communication insuffisante ou pas comprise.
+4 – Problème de force de vente ou de distribution : vendeurs peu motivés, argumentaire de vente à
+revoir, marge des distributeurs insuffisante, etc.
+5 – Organisation d’entreprise : système d’information inopérant, structure inadaptée, absentéisme
+du personnel provocant des retards, climat social tendu, etc.
+6 – Évolution des comportements d’achat : marché globalement en déclin, apparition d’autres
+concurrents indirects : chaîne hi-fi intégrée dans les micro-ordinateurs, baladeurs, TV et vidéo.
+7 – Conjoncture : baisse du pouvoir d’achat, problèmes sociaux (grèves, chômage). ..................................................................................................................................................................................
+Outre l’exactitude du diagnostic marketing, la formulation des questions d’étude peut nécessiter
+la recherche d’informations complémentaires pour délimiter et hiérarchiser les problèmes posés :
+différentes techniques sont utilisables, telles que l’analyse documentaire, l’utilisation des panels, les
+rencontres avec les commanditaires de l’étude. Ces différentes investigations préliminaires sont
+traitées dans le chapitre suivant. Lorsque le chargé d’études dispose de ces informations, la fixation
+des questions d’étude ne pose pas de difficulté majeure. Nous proposons, dans la fiche technique 1.1., un exemple d’application illustrant les différentes phases de ce travail 16.
+16. Cet exemple se fonde sur une approche simplifiée d'un appel d'offres réel (SEATM, 22 octobre 1991). Bien que le contexte
+d’étude soit ancien, la qualité de la démarche d’établissement du diagnostic et la fixation des objectifs et questions d’étude en font
+un véritable modèle du genre.
+14 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+Fiche technique 1.1. Comment déterminer et rédiger les objectifs et questions d’étude ?
+1 – Exposé du problème managérial
+Le marché de l’immobilier de montagne français a connu
+une crise sérieuse au début des années 1990. En effet, la
+fréquentation des stations de sports d’hiver avait sensiblement baissé, puisque le nombre de skieurs est passé
+de 6 millions en 1985 à environ 5 millions en 1991.
+Cette réduction du taux de départ des Français aux
+sports d’hiver s’est traduite par une récession importante
+du marché de l’immobilier en montagne : arrêt des
+programmes d’investissement, baisse sensible de la
+qualité du parc disponible, fuite de la clientèle potentielle
+vers d’autres destinations de vacances. Que pouvait-on
+faire pour sortir de ce cercle vicieux ?
+2 – Examen du problème à résoudre
+Les causes de cette récession sont globalement connues.
+À la stagnation de la fréquentation se sont ajoutées des
+causes propres au marché immobilier de montagne :
+faible rentabilité financière du produit, concurrence
+d’autres placements financiers, faibles perspectives de
+plus-values, paupérisation du produit, manque de professionnalisme des acteurs de l’immobilier, effet de mode et
+moindre attirance pour la résidence secondaire.
+Si, globalement et quantitativement, l’offre immobilière
+peut apparaître supérieure à la demande, il n’en reste
+pas moins que ce marché n’est pas toujours adapté à la
+demande de la clientèle des vacanciers : manque
+d’hébergements locatifs adaptés aux stratégies des
+opérateurs, notamment en ce qui concerne les stations
+moyennes, hébergements ayant vieilli prématurément et
+ne répondant plus aux critères de confort indispensables, etc.
+Quelles sont les conditions à réunir, d’abord, pour
+espérer à moyen terme une reprise de l’immobilier de
+loisirs en montagne et surtout pour que le produit
+corresponde à la demande de la clientèle des vacanciers
+et s’insère dans une vision de l’aménagement de la
+montagne respectueuse des grands équilibres économiques et naturels de la montagne ?
+L’étude a donc pour objectif de définir quelles pourraient
+être les stratégies d’anticipation et d’actions possibles
+pour mettre en place les conditions permettant de favoriser l’émergence d’un produit immobilier répondant aux
+orientations définies ci-dessus.
+3 – Fixation des objectifs et questions d’étude
+En analysant pas à pas les scénarios de l’appel d’offres,
+nous pouvons lister les points suivants :
+a) Problème managérial : effondrement du marché
+immobilier en montagne.
+b) Recensement des causes présumées :
+– réduction du taux de départ en vacances d’hiver ;
+– surcapacité d’hébergement (offre supérieure à la
+demande) ;
+– faible rentabilité du produit (concurrence des autres
+placements) ;
+– produit immobilier de mauvaise qualité (bas de
+gamme) ;
+– frein culturel (baisse de l’attrait de la résidence secondaire).
+c) Diagnostic et contraintes marketing :
+– existence de créneaux pour un « nouvel immobilier
+de montagne » ;
+– construction d’un programme immobilier à taille
+humaine.
+d) Fixation des questions prioritaires auxquelles l’étude doit
+répondre :
+– pondérer les attentes de la clientèle finale en matière
+de produits immobiliers moyenne gamme : confort,
+surface, nature du programme, environnement de la
+station (écologie, altitude) ;
+– déterminer le potentiel de ventes d’un tel marché ;
+– comment attirer les investisseurs pour des produits de
+moyenne gamme (série limitée) et de rénovation du bas
+de gamme : évaluation des coûts de construction, mode
+d’acquisition des terrains, viabilisation, plan de financement, aides à la construction, prêts spécifiques ;
+– comment communiquer ces attentes aux responsables locaux et nationaux (offices du tourisme, collectivités locales et territoriales, etc.). Quelles actions mener ?
+La liste précédente montre la multiplicité des questions
+auxquelles l’étude doit répondre. On voit assez rapidement que les personnes susceptibles d’être interrogées
+seront différentes : utilisateurs finaux (skieurs), acheteurs
+du produit (investisseurs publics et privés), concepteurs
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 15
+(promoteurs, collectivités locales), distributeurs (offices du tourisme, voyagistes), etc. Certaines questions imposent
+des réponses quantitatives chiffrées (nombre de logements, pondération des attentes des utilisateurs), alors que
+d’autres débouchent sur des réponses qualitatives (recenser les actions de promotion, construire un argumentaire,
+etc.).
+Les développements précédents révèlent que le succès de l’étude dépend en grande partie de la
+qualité de la collaboration entre les partenaires. La figure 1.7. présente le partage des responsabilités
+entre le manager et le chargé d’études pour un bon cadrage de la future étude. La validation du
+diagnostic marketing est au cœur du processus de cadrage. Elle élimine les fausses pistes d’études,
+c’est-à-dire les études inutiles car elles n’apporteront pas de valeur ajoutée au manager. En second
+lieu, elle permet de hiérarchiser les questions d’étude, en évitant la prolifération de questions
+secondaires, souvent coûteuses et finalement peu utiles pour les décisions ultérieures. Enfin, la
+rédaction du projet d’étude est facilitée par un diagnostic marketing clair et précis.
+Figure 1.7. Partage des responsabilités pour le cadrage d’une étude
+Responsabilité de l’action
+Exposé du problème
+managérial à résoudre
+Existence
+d’un diagnostic marketing
+Recenser les causes
+les plus plausibles Valider le diagnostic
+Lister les objectifs
+d’étude envisageables
+oui non
+Choisir une ou deux
+questions d’étude
+Choix de(s) technique(s)
+d’étude appropriée(s)
+Manager
+Manager et chargé d’études
+Chargé d’études
+Source : VERNETTE É., Techniques d’études de marché, Vuibert, 2011.
+Le lecteur sera peut-être surpris par l’importance que nous avons donnée à la phase de cadrage
+de l’étude. Il est vrai que dans la pratique, faute de temps ou par excès de confiance, cette étape est
+rapidement parcourue, voire carrément occultée, au profit des questions ultérieures de collecte et
+d’analyse des données. Mais les conséquences d’un cadrage raté, voire d’une absence d’étude
+préliminaire, sont toujours dommageables pour l’entreprise. Le flash-étude 1.4. qui revient sur
+l’échec du lancement du New Coke et sur le retrait prématuré d’Artic Coca le montre clairement.
+16 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+Flash-Étude 1.4.
+De l’étude mal cadrée à l’absence d’étude : échec du New Coke et retrait prématuré
+de l’Artic Coke 17
+Le marketing de Coca-Cola est réputé pour être l’un des meilleurs du monde. Pourtant, l’échec du
+lancement du New Coke en 1985 est resté célèbre et a souvent été présenté comme un exemple
+d’une défaillance des études de marché. Le recul et les différents audits montrent aujourd’hui que
+les causes résident en grande partie dans une mauvaise formulation des questions d’étude. Un
+quart de siècle plus tard, en 2011, Coca apporte son obole au marketing durable en changeant la
+couleur de sa célèbre canette et en s’engageant à verser 3 millions de dollars au WWF. En
+apparence, il n’y a aucune raison d’envisager une étude sur la perception du nouveau packaging,
+puisqu’il s’agit d’une opération caritative qui, de surcroît, est limitée dans le temps. Et pourtant, cela
+aurait été nécessaire...
+L’échec du New Coke
+Le début des années 1980 est difficile pour Coca-Cola, à cause des nombreuses offensives du
+challenger Pepsi. Aux États-Unis, sa part de marché sur le segment des colas décline, passant de
+60 % en 1950 à 24 % en 1980 et à 21,8 % en 1984. Une des causes vient du développement
+d’autres segments, notamment les boissons allégées (sans saccharose, sans caféine) et les sodas. En
+1985, les ventes de Pepsi s’apprêtent à dépasser celles de Coke. Le diagnostic marketing révèle que
+l’origine du problème réside dans la médiocre perception du goût. Ainsi, le succès de Diet Coke
+(sans sucre) s’expliquerait par une plus grande proximité de saveur avec Pepsi que le Coke
+standard. La mise au point d’une nouvelle formule est urgente. Près de 200 000 personnes sont
+soumises à des tests de produit en aveugle (évaluation du produit sans la marque Coke) et en
+identifié (avec la marque), pour un coût total de 4 millions de $. En septembre 1984, le succès est à
+portée de main : une nouvelle formule, testée en aveugle, obtient des écarts significatifs (6 à
+8 points) par rapport à Pepsi qui surpasse lui-même le Coke standard de 10 à 15 points. L’amélioration entre l’ancien et le nouveau Coke est indéniable : 18 points en moyenne. Le 23 avril 1985,
+New Coke est lancé en fanfare et la production de l’ancien produit cesse à la fin de la semaine.
+Pourtant, durant le mois de juin, les consommateurs de l’ancien Coke manifestent de façon
+virulente leur hostilité au nouveau Coke : un marché noir s’organise, 60 000 appels assaillent le
+standard de Coca-Cola ; plus surprenant, de nouveaux tests en identifié donnent des évaluations
+très négatives pour New Coke, du genre « eau de vaisselle », « cire pour meuble », « Pepsi ouvert
+depuis deux jours », etc.
+Le 11 juillet 1985, au cours d’une conférence de presse spéciale, Donald Keough annonce le retour
+de l’ancien Coke et révèle indirectement la faille des études : « Le simple fait que tout ce temps, cet
+argent et ces compétences aient été dépensés dans la recherche marketing ne pourrait mesurer ou
+indiquer la profondeur de l’attachement émotionnel ressenti par tant de personnes au Coca-Cola
+original. Cette passion, oui c’est bien le mot, nous a réellement surpris. C’est un mystère merveilleux,
+une énigme américaine bouleversante, et vous ne pouvez mesurer cela, de même que vous ne pouvez
+mesurer l’amour, l’orgueil ou le patriotisme. » L’erreur stratégique des études de marché précédentes
+est là : en fait, la vraie question d’étude n’était pas d’« évaluer la préférence des consommateurs pour
+la nouvelle ou l’ancienne formule », mais plutôt de « déterminer la préférence pour le nouveau produit,
+sachant qu’il doit remplacer l’ancien ». Le capital de marque lié à l’ancien produit est énorme, puisqu’il
+17. Cette analyse se fonde en grande partie sur les documents disponibles dans les sites Web suivants : www.snopes2.com/cokelore/
+newcoke.htm ou www.toptown.com/hp/mikeyb/coke.htm ; voir aussi les articles dans Newsweek, 24 juin 1985 ; Times, 22 juillet
+1985 ; SCHNINDLER R., « The Real Lesson of New Coke », Marketing Research, 25 décembre 1992. http://www.e-marketing.fr/
+Breves/Coca-Cola-fait-un-flop-avec-ses-canettes-blanches-de-Noel-42901.htm ; http://www.thecoca-colacompany.com/dynamic/
+press_center/2011/10/iconic-coca-cola-red-cans-turn-arctic-white.html
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 17
+renvoie au drapeau américain, à Roosevelt ; certains interviewés parlent de « violation de la liberté de
+choix » et font référence à la déclaration d’indépendance !
+Cette décision spectaculaire est suivie d’effets stupéfiants : très rapidement, le Classic Coke dépasse
+les ventes du New Coke et rattrape Pepsi dès le début de 1986 ; quant au New Coke, sa part de
+marché atteint 3 % en 1986 et, même s’il est rebaptisé Coke II en 1990, ses ventes sombrent :
+0,1 % en 1997. Et pourtant, en test en aveugle, le goût de New Coke surpassait largement celui de
+Classic Coke...
+Retrait prématuré de l’Artic Coca
+Le 25 octobre 2011, le centre de presse de Coca-Cola annonce que la marque change provisoirement de look sur le marché américain et canadien pour supporter, aux côtés du WWF, l’une des
+espèces mondiales les plus menacées par le réchauffement climatique, l’ours polaire. Le projet
+baptisé « The Artic Home » vise à récolter des fonds pour sauvegarder l’environnement où vit
+l’ours polaire. Coca avait prévu de doter 1,4 milliard de canettes d’un nouvel emballage gris et
+blanc, censé rappeler la banquise. Celui-ci devait rester dans les linéaires jusqu’en février 2012. Les
+autres marques du groupe, quant à elles, arboraient un bouchon blanc pour amplifier l’impact de la
+campagne. La marque a versé 1,4 million d’euros dans un premier temps et s’est engagée à doubler
+chaque don de consommateur, dans la limite d’un million de dollars. Mais, le 3 décembre 2011,
+l’opération est stoppée brutalement, suite à de nombreuses plaintes de consommateurs qui
+confondaient la canette spéciale arctique, avec les canettes argentées de Coca Light ; d’autres
+indiquaient que le goût du Coca classique était différent dans ces canettes blanches, d’autres
+enfin considéraient que toucher à la célèbre canette rouge relevait du sacrilège...
+Conclusion
+La première phase des réflexions nécessaires pour un bon cadrage de l’étude de marché est
+achevée. Nous avons montré que la formulation du problème, primordiale pour l’efficacité de
+l’étude, comportait nombre de difficultés.
+Il ne faudrait cependant pas en déduire trop rapidement que toutes les formulations sont
+complexes et nécessitent un flair digne de Sherlock Holmes. La plupart du temps, le problème
+est clairement posé, le diagnostic marketing a été validé avec soin, les questions d’étude sont bien
+délimitées. Dans un tel cas, le chargé d’études peut directement passer à la rédaction du projet, à
+condition qu’il dispose d’une bonne connaissance générale du marché correspondant aux produits
+ou services qui font l’objet de l’étude. Mais dans le cas contraire, il doit, préalablement à la rédaction
+du projet, engager des études documentaires préliminaires. Ce sera l’objectif du prochain chapitre.
+18 PREMIÈRE PARTIE. RÉFLEXIONS PRÉALABLES À L’ÉTUDE
+TEST DE CONNAISSANCE
+(Cochez une seule réponse par question.)
+Q1. Les questions managériales et questions d’étude sont le plus souvent :
+(1) identiques &
+(2) voisines &
+(3) différentes &
+Q2. L’étude de marché conduit le plus souvent :
+(1) au maintien de l’incertitude &
+(2) à la réduction de l’incertitude &
+(3) à la suppression de l’incertitude &
+Q3. Les objectifs de l’étude, le plus souvent :
+(1) sont clairement formulés par le demandeur &
+(2) sont vaguement formulés par le demandeur &
+(3) ne sont pas du tout formulés par le demandeur &
+Q4. Pour une étude traitant d’un problème stratégique, les solutions à adopter
+sont :
+(1) connues et faciles à recenser &
+(2) connues et existent en petit nombre &
+(3) partiellement connues et existent en grand nombre &
+Réponses : voir annexes téléchargeables sur www.vuibert.fr
+Bibliographie
+BOSS J.-F. et LINDON D., « L’efficacité des études de marché », Revue française du marketing,
+no 134, 1991/4, pp. 35-49.
+FAIVRE J.-P., « Des études classiques aux études stratégiques », Revue française du marketing,
+no 142-143, 1993/2-3, pp. 75-88.
+FLORES L., « Web 2.0 et études de marché : vers une nouvelle génération d’études de
+marché ? », Revue française du marketing, no 220, 2008, pp. 7-16.
+GILLES M., « Le consommateur change, les études aussi. État des lieux après la tempête »,
+Revue française du marketing, no G201, 2005, pp. 111-126.
+LE MAIRE P., « Comment améliorer les relations entre les cabinets d’études et leurs clients ? »,
+Revue française du marketing, 1979/4, pp. 41-49.
+NICHOLSON P., « Marketing : réconcilier les hommes d’études et les décideurs », Revue
+française de gestion, no 61, janvier/février 1987, pp. 22-32.
+SMITH S.M., « Research and pseudo research in marketing », Harvard Business Review, avril
+1974, pp. 73-76.
+SOLE A., « L’information aide-t-elle la décision ? », Revue française du marketing, no 142-143,
+1993/2-3, pp. 89-96.
+WALISER B., « Évaluation des études d’aide à la décision dans les administrations centrales »,
+« Le processus de décision dans les organisations », Journée d’études AFCET, Paris, 1980.
+CHAPITRE 1. CADRAGE DE L’ÉTUDE 19
+
+Table des matières
+Avant-propos V
+Introduction VII
+Première partie :
+Réflexions préalables à l'étude
+1. Cadrage de l’étude 1
+I. Analyse du problème à résoudre 2
+A. Émergence du problème 2
+B. Perception managériale du problème et questions d’étude 2
+C. Clarification du problème 8
+II. Compréhension de l’objectif de l’étude 10
+A. Principaux obstacles 10
+B. Utilisation des résultats 12
+C. Diagnostic des questions d’étude 12
+Conclusion 18
+2. Études préparatoires 21
+I. Identifier les informations nécessaires 22
+A. Quand faut-il engager une étude préparatoire ? 22
+B. Nature des informations à identifier 23
+C. Partage, exclusivité et régularité de l’information 23
+II. Exploiter les informations disponibles 26
+A. Étude documentaire : « le point sur l’existant » 27
+B. Brief avec le client : le complément d’information 34
+III. Approfondir les informations
+grâce aux panels 36
+A. Objectifs et catégories de panels 36
+B. Apport d’un panel de consommateurs 39
+C. Apport d’un panel de distributeurs 42
+D. Apport d’un panel-test 47
+E. Administration d’un panel 50
+F. Bilan 51
+Conclusion 52
+631
+3. Projet d’étude 55
+I. Qui fait l’étude ? 56
+A. Étude interne ou sous-traitée ? 56
+B. Gestion d’un appel d’offres 59
+II. Étude vs recherche marketing 62
+A. Perspectives différentes 62
+B. Préoccupations convergentes 64
+C. Étude et recherche marketing : sources d’insight marketing 67
+III. Démarche qualitative ou quantitative ? 70
+A. Approche qualitative 70
+B. Approche quantitative 73
+C. Synthèse 74
+IV. Contenu de la proposition d’étude 75
+A. Rubriques d’une proposition d’étude 75
+B. Adoption du projet d’étude 81
+V. Marché des études 83
+A. Marché français 83
+B. Marché mondial 86
+Conclusion 87
+Deuxième partie :
+Approche qualitative
+4. Investigation par entretien individuel 93
+I. Présentation générale des approches 94
+A. Domaines d’investigation et postulats fondamentaux 94
+B. Points méthodologiques communs 95
+C. Orientations et spécificités des différentes approches 96
+II. Entretien en profondeur 97
+A. Arrière-plan théorique 97
+B. Échantillonnage 100
+III. Entretien introspectif 126
+A. Définition 126
+B. Spécificités méthodologiques 126
+C. Évaluation 127
+IV. Entretien phénoménologique 129
+A. Objectifs 129
+B. Approche méthodologique 131
+632 ÉTUDES DE MARCHÉ
+V. Entretien herméneutique 133
+A. Objectifs et principes 133
+B. Méthodologie 135
+C. Domaines d’application 137
+Conclusion 138
+5. Investigation par interactions en groupe 141
+I. Principes et objectifs généraux des techniques d’interaction en groupe 142
+A. Panorama des méthodes d’interaction en groupe 142
+B. Réunion de groupe ou entretien individuel ? 147
+II. Focus group 148
+A. Constitution du groupe 148
+B. Encadrement 151
+C. Supports et techniques d’animation 152
+D. Analyse des résultats 154
+E. Focus group on line 156
+III. Pratique d’un groupe nominal 159
+A. Principes généraux 159
+B. Fonctionnement 159
+C. Appréciation 162
+IV. Créativité et idéation 162
+A. Domaine et principes fondamentaux de la créativité 163
+B. Brainstorming 165
+C. Matrice de découverte 166
+D. Analyse des fonctions 169
+E. Analogies 170
+F. Bulletin board 171
+G. Appel à participation (communautés virtuelles) 174
+V. Groupe Delphi 177
+A. Principes généraux et applications 177
+B. Fonctionnement de la méthode classique 178
+C. Extensions 182
+Conclusion 188
+6. Investigation par observation 191
+I. Différentes formes d’observation 192
+A. Différentes familles 192
+B. Observation ou interview ? 193
+C. Mise en situation 194
+II. Observation non participante 195
+A. Observation simple 196
+B. Observation appareillée 199
+TABLE DES MATIÈRES 633
+III. Observation participante 202
+A. Anthropologie, ethnologie et ethnographie 202
+B. Méthodes ethnographiques 204
+C. Netnographie et twetnographie 209
+D. Méthodes d’anthropologie visuelle 212
+IV. Observation mixte 214
+A. Ethnométhodologie 214
+B. Observation narrative 217
+C. Observation scénarisée 219
+Conclusion 222
+7. Techniques de recherche et d’interprétation du sens 225
+I. Association 226
+A. Mots inducteurs 226
+B. Méthode de citation directe 226
+C. Réseau associatif 228
+D. Chaînes moyens-fins 233
+II. Projection 234
+A. Tests de perception thématique 235
+B. Liste d’achats 240
+C. Phrases à compléter 242
+D. Palette symbolique 244
+E. Jeux de rôle (psychodrame) 244
+F. Dessins et graffitis 245
+G. Évaluation des méthodes 246
+III. Métaphore 246
+A. Figures de rhétorique 246
+B. Nature des métaphores 248
+C. Production et interprétation des métaphores 250
+IV. Images expérientielles 255
+A. Autoportrait photographique 255
+B. Essai collectif en 3D 256
+C. Méthode AOL 257
+V. Sémiotique 261
+A. Arrière-plan théorique et principaux concepts 261
+B. Perspective adoptée par l’étude sémiotique 265
+C. Techniques d’interprétation 267
+D. Applications dans le domaine des études de marché 272
+E. Évaluation 274
+Conclusion 275
+634 ÉTUDES DE MARCHÉ
+Troisième partie :
+Approche quantitative
+8. Échantillonnage 281
+I. Préparation de l’échantillonnage 282
+A. Définir la population à étudier 282
+B. Déterminer la base de sondage 284
+II. Sélection de l’échantillon : choix d’une méthode de tirage 285
+A. Méthodes d’échantillonnage aléatoire 285
+B. Méthodes d’échantillonnage empirique 292
+C. Synthèse 297
+III. Détermination de la taille de l’échantillon 299
+A. Éléments à prendre en compte 300
+B. Taille d’échantillon pour estimer une moyenne 300
+C. Taille d’échantillon pour estimer une proportion 302
+Conclusion 303
+9. Construction du questionnaire 305
+I. Règles liées au fond du questionnaire 306
+A. Contenu des questions 306
+B. Types de questions 311
+C. Niveaux de mesure 319
+II. Impératifs de forme 322
+A. Rédaction du questionnaire 323
+B. Structure du questionnaire 330
+C. Mise en page du questionnaire 334
+D. Codage du questionnaire 336
+E. Prolongements 338
+Conclusion 344
+10. Administration du questionnaire 347
+I. Pré-test 348
+A. Modalités de mise en œuvre 348
+B. Détection des erreurs 349
+II. Méthodes d’administration 350
+A. Face-à-face 352
+B. Voie postale 353
+C. Téléphone 355
+D. Enquêtes en ligne 357
+E. Évaluation comparative des méthodes d’administration 359
+TABLE DES MATIÈRES 635
+III. Contrôle de la validité du recueil 365
+A. Sélection des enquêteurs 365
+B. Formation des enquêteurs 366
+C. Contrôle des enquêteurs 367
+D. Évaluation des enquêteurs 368
+Conclusion 369
+11. Analyses de base 373
+I. Dépouillement des questionnaires 374
+II. Tableaux de fréquences 375
+A. Tris à plat 375
+B. Tris croisés 381
+III. Calculs statistiques de base 383
+A. Moyenne 384
+B. Variance et écart-type 388
+C. Coefficient de variation 391
+Conclusion 392
+12. Tests statistiques 395
+I. Tests sur une variable 396
+A. Tests d’ajustement 396
+B. Tests de comparaison entre deux échantillons 404
+II. Association entre deux variables :
+test de contingence du chi-deux 418
+A. Objectifs et conditions d’utilisation 419
+B. Mode de calcul 419
+C. Exemple d’application 420
+D. Limites 422
+Conclusion 422
+13. Analyses d’association et de dépendance 425
+I. Relations d’association entre variables 426
+A. Mesures d’association entre variables nominales 426
+B. Mesures d’association entre variables ordinales 430
+C. Corrélation r de Pearson 436
+II. Analyse de régression simple 438
+A. Ajuster les données par l’analyse de régression 439
+B. Évaluer la qualité du modèle 444
+Conclusion 448
+636 ÉTUDES DE MARCHÉ
+14. Analyses multivariées 451
+I. Présentation générale des méthodes d’analyse multivariée 452
+A. Classification des méthodes 452
+B. Présentation des données 452
+II. Méthodes d’analyse factorielle 455
+A. Objectifs et principes techniques fondamentaux 456
+B. Étapes de l’analyse 457
+III. Analyse des correspondances 468
+A. Objectifs et principes 468
+B. Interprétation et sens de l’analyse 468
+C. Applications et prolongements 474
+IV. Analyse typologique 474
+A. Objectifs et principes fondamentaux 474
+B. Étapes de l’analyse 476
+C. Exemple d’application 484
+V. Analyse des similarités 486
+A. Objectifs et principes fondamentaux 486
+B. Forme des questionnaires 487
+C. Étapes de l’analyse 489
+VI. Analyse de régression multiple 493
+A. Objectifs et principes 493
+B. Étapes de l’analyse 494
+VII. Analyse discriminante 504
+A. Objectifs et principes 504
+B. Étapes de l’analyse 504
+Conclusion 514
+15. Expérimentation et modélisation en marketing 517
+I. Collecter des données au moyen d’un plan d’expérience 518
+A. Qu’est-ce qu’un lien de cause à effet ? 518
+B. Comment mettre en place un plan d’expérience ? 520
+C. Validité des données expérimentales 527
+D. Limites des méthodes de collecte de données expérimentales 528
+II. Traiter des données issues de plans d’expérience 529
+A. Analyse de variance 529
+B. Analyse conjointe 547
+III. Modéliser par équations structurelles 558
+A. Caractéristiques générales, objectifs, contraintes 558
+B. Spécification d’un modèle 562
+C. Test d’un modèle d’équations structurelles 567
+D. Prolongements 579
+Conclusion 583
+TABLE DES MATIÈRES 637
+Conclusions et recommandations
+Présentation du rapport d’étude et mise en œuvre 589
+I. Rédaction du rapport d’étude 590
+A. Présentation matérielle 590
+B. Rubriques usuelles (rapport traditionnel) 591
+C. Recommandations et conseil 594
+D. Illustrations graphiques et schémas 597
+II. Présentation orale du rapport 602
+A. Objectifs 602
+B. Préparation de la présentation orale 603
+C. Déroulement de la présentation orale 610
+III. Évaluation de l’efficacité de l’étude 611
+A. Qualités techniques du rapport d’étude 611
+B. Comment concevoir un instrument d’études efficace ? 613
+C. Évaluation des prestations des instituts d’études 614
+IV. Prise de décision après le rapport 617
+A. Organisation de l’entreprise : appui ou obstacle ? 617
+B. Acceptabilité du rapport d’étude 618
+C. Établissement d’un climat de confiance 619
+Annexes
+Bibliographie générale 623
+Index 627
+638 ÉTUDES DE MARCHÉ
+La seule collection qui vous propose à la fois :
+LES INDISPENSABLES VUIBERT
+Les 3 en 1 de la réussite
++
++
+le cours en fiches en fiches
+des QCM commentés commentés
+des exercices corrigés es corrigés
+Ce manuel présente la totalité du processus d’étude,
+du projet au rapport, ainsi qu’un très vaste panel de
+méthodes qualitatives et quantitatives d’analyse de
+données. Ponctués par un test de connaissance, les
+différents chapitres mettent l’accent sur les concepts
+clés en s’appuyant sur de nombreux exemples et
+études de cas.
+www. .fr
+ISBN : 978-2-311-40148-6
+illustration de couverture : Rawpixel/Shutterstock.com
+Agrégé des universités, Jean-Luc Giannelloni
+est professeur à l’IAE de Grenoble dont il dirige
+le master de marketing. Membre du CERAG
+(UMR CNRS), il a centré ses recherches sur les
+problématiques d’hospitalité, d’expérience de
+consommation, notamment touristique, et de
+consommation responsable. Il est également
+rédacteur en chef de Décisions marketing.
+Agrégé des universités, docteur d’État ès sciences
+de gestion, Éric Vernette est professeur à l’IAE de
+Toulouse. Il dirige la spécialité « Chef de produit
+et études marketing » du master de marketing
+et l’axe Marketing du Centre de recherche en
+management (UMR CNRS). Auteur de nombreuses
+publications, notamment sur le leadership
+d’opinion et la cocréation en marketing, ancien
+président de l’AFM, il a également été rédacteur
+en chef de Décisions marketing.
+Véritable référence, ce manuel est le seul à couvrir l’ensemble
+du champ des études de marché.
+Sommaire
+Réfl exions préalables à l’étude. 1. Cadrage de l’étude. 2. Études préparatoires.
+3. Projet d’étude. Approche qualitative. 4. Investigation par entretien individuel.
+5. Investigation par interactions en groupe. 6. Investigation par observation.
+7. Techniques de recherche et d’interprétation du sens. Approche quantitative.
+8. Échantillonnage. 9. Construction du questionnaire. 10. Administration du
+questionnaire. 11. Analyses de base. 12. Tests statistiques. 13. Analyses d’association
+et de dépendance. 14. Analyses multivariées. 15. Expérimentation et modélisation
+en marketing. Conclusions et recommandations. Présentation du rapport d’étude
+et mise en œuvre.
+En complément
+ Guide et tableaux statistiques téléchargeables.
+ Corrigés des tests de connaissance en ligne.
+Public
+ Étudiants en sciences de gestion (universités, IAE, écoles de management).
+ Stagiaires de la formation continue.
+ Professionnels souhaitant approfondir ou actualiser leurs connaissances.
+4e ÉDITION
+ETUDES
+DE MARCHE 
